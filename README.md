@@ -1,2 +1,2 @@
 # SI_estacionamento
-Case engenharia de software - estacionamento
+# Projeto de informatização da gestão de entrada, saída e premanência de veículos em estacionamento.
